@@ -6,7 +6,7 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoic3BpZXJyZTE0IiwiYSI6ImNtdHg1MXFyNjAxanUyd3B0Z
 const DATA_FILE = 'data/Land_Area_Full_Service.min.geojson';
 const STATIONS_FILE = 'data/rail_transit_stations.geojson';
 const ROUTES_FILE = 'data/routes_subway_SIR_Path_LIRR_MNR.min.geojson';
-const TRANSIT_COLOR = '#595959'; // medium-dark grey -- routes and stations share it
+const TRANSIT_COLOR = '#000000'; // black -- routes and stations share it
 const COLOR_SCHEME_KEY = 'land';
 
 // The 20 percentile bins, low to high
